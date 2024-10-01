@@ -27,7 +27,7 @@ Salve o código com a extensão .c, por exemplo, supermercado.c.
 Abra o terminal no diretório onde o arquivo foi salvo.
 Compile o código.
 
-Funcionalidades do Sistema
+Funcionalidades Implementadas.
 Cadastrar Produtos: Permite cadastrar novos produtos com código, nome e preço.
 Listar Produtos: Exibe todos os produtos cadastrados no sistema.
 Comprar Produtos: Adiciona produtos ao carrinho de compras.
