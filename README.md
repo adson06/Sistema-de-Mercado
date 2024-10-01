@@ -19,6 +19,7 @@ Visualizar Carrinho: A função visualizarCarrinho() mostra todos os itens que e
 Fechar Pedido: A função fecharPedido() calcula o valor total da compra, somando os preços dos itens no carrinho multiplicados pela quantidade comprada. Depois de finalizar o pedido, o carrinho é esvaziado.
 
 Funções Auxiliares
+
 pegarProdutoPorCodigo() encontra um produto pelo código fornecido e retorna suas informações.
 temNoCarrinho() verifica se o produto já está no carrinho. Se estiver, retorna a posição dele, senão retorna -1.
 Como Compilar e Executar
